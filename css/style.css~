@@ -141,28 +141,3 @@ h6 {font: bold 14px Arial, Helvetica, sans-serif;}
 #footer .bottom-footer .bottom-footer-middle li a:hover span {background: url(../images-2/fot-menu-right-bg.png) no-repeat right top;text-decoration:none;}
 #footer .bottom-footer .bottom-footer-right {width:237px;padding-right:30px;float:left;margin-top: 5px;}
 #footer .bottom-footer .bottom-footer-right p {color:#FFFFFF;font-size:11px;}
-.antrivirus_detail {
-}
-
-
-h2.cis-head {
-    padding-left: 333px !important;
-    padding-top: 82px;
-}
-
-.download_antivirus_button {
-    padding-left: 280px !important;
-    padding-top: 152px;
-}
-
-.antivirus_features{
-    margin-top: 2px;
-    padding-left: 227px;
-}
-
-.antivirus_more_features {
-    float: left;
-    margin-top: -77px;
-    padding-left: 336px;
-    width: 189px;
-}

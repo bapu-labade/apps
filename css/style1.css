@@ -166,3 +166,13 @@ h2.cis-head {
     padding-left: 336px;
     width: 189px;
 }
+
+
+.globalnav-wrapper {
+    left: 52%;
+    margin: 18px 0 0 -512px;
+    position: absolute;
+    top: 0;
+    width: 1024px;
+    z-index: 9992;
+}
