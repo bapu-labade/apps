@@ -1,124 +1,75 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-	<script src="//cdn.optimizely.com/js/11059279.js" type="text/javascript"></script>
-        <!-- <link media="all" href="images/widget092.css" type="text/css" rel="stylesheet" /> -->
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />    
+    <title>Free Antivirus | Download Free Antivirus from Comodo</title>
+    <link rel="canonical" href="http://antivirus.comodo.com" /> 
         
-      <title>Free Antivirus | Download Free Antivirus from Comodo</title>
-
-<meta name="description" content="Download Free Antivirus and Internet Security from Comodo and get complete protection against viruses with $500 Virus-Free Guarantee and no more viruses."/>
-
-<meta name="keywords" content="Antivirus, Free Antivirus, Download Antivirus, Free Antivirus Downloads, Free Antivirus, Antivirus For Free, Antivirus Software"/>
-		<link rel="canonical" href="http://antivirus.comodo.com" /> 
-        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
-        
-        <link rel="stylesheet" type="text/css" href="css/reset.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/style1.css" />
-  <link rel="stylesheet" type="text/css" media="all" href="css/menubar_style.css" />
-        
-        <link rel="stylesheet" type="text/css" media="all" href="css/fancybox/jquery.fancybox.css" />
-        <style type="text/css">
-        .fancybox-wrap .fancybox-desktop .fancybox-type-iframe .fancybox-opened {
-            width:720px;
-        }
-		.bx1{
-			width:210px !important;
-			background:url(images-2/separator.png) no-repeat right center;
-			padding-right:25px;
-			height:222px;
-			}
-			.bx2{
-            background:url(images-2/separator.png) no-repeat right center;
-			height:222px;
-			padding-right:15px;
-			width:165px !important;
-			}
-			.bx3{
-			background:url(images-2/separator.png) no-repeat right center;
-			height:222px;
-			width:180px !important;
-			}
-			.bx4{
-			width:200px !important;
-			}
-			/**************new styles*******************/		
-		#content #index-banner {
-    height: auto;
-    padding-top: 35px;
-    width:890px;
+    <link rel="stylesheet" type="text/css" href="css/reset.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="css/style1.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="css/menubar_style.css" />
+    <style type="text/css">
+      #content #index-banner {
+        height: auto;
+        padding-top: 35px;
+        width:890px;
 	margin:auto;
 	position:relative;
-}
-#content #index-banner .banner-content .left-banner .image-box {
-    display: block;
-    padding-left:70px;
-}
+      }
+    #content #index-banner .banner-content .left-banner .image-box {
+      display: block;
+      padding-left:70px;
+    }
 
-#content #index-banner .banner-content .left-banner .price-bx {
-    color: #49494B;
-    display: block;
-    font-size: 13px;
-    font-weight: normal;
-    padding: 5px 0 10px 110px;
-	float:left;
+   #content #index-banner .banner-content .left-banner .price-bx {
+      color: #49494B;
+      display: block;
+      font-size: 13px;
+      font-weight: normal;
+      padding: 5px 0 10px 110px;
+     float:left;
     /*text-align: center;*/
-}
+  }
 
-#content #index-banner .banner-content .left-banner .price-bx .usd {
+  #content #index-banner .banner-content .left-banner .price-bx .usd {
     font-size: 18px;
     font-weight: normal;
-}
-#content #index-banner .banner-content .left-banner .price-bx span.dollar {
+  }
+  #content #index-banner .banner-content .left-banner .price-bx span.dollar {
     color: #FF8A00;
     font-size:24px;
     font-weight: bold;
-}
-#content #index-banner .banner-content .left-banner .price-bx span.superscript {
+  }
+  #content #index-banner .banner-content .left-banner .price-bx span.superscript {
     color: #FF8A00;
     display: inline-block;
     font-size:18px;
     font-weight: bold;
-}
-#content #index-banner .banner-content .left-banner .buy-now-btn {
+  }
+  #content #index-banner .banner-content .left-banner .buy-now-btn {
     display: block;
 	width:325px;
     /*text-align: center;*/
-}
+  }
 
-#content #index-banner .banner-content .right-banner .right-cnt {
+  #content #index-banner .banner-content .right-banner .right-cnt {
     display: block;
     float: right;
     width:325px;
-}
+  }
 
-#content #comodotv .video .box {
+  #content #comodotv .video .box {
     display: inline-block;
     float: left;
     padding: 30px 0;
     width: 425px;
-}
-#content #index-banner .banner-content .left-banner {min-height: 518px;}
+  }
+  #content #index-banner .banner-content .left-banner {min-height: 518px;}
 
-#content #index-banner .banner-content .right-banner {
-  min-height: 518px;
-}
-    .bx11 {			width:210px !important;
-			background:url(images-2/separator.png) no-repeat right center;
-			padding-right:25px;
-			height:222px;
-}
-.bx21 {            background:url(images-2/separator.png) no-repeat right center;
-			height:222px;
-			padding-right:15px;
-			width:165px !important;
-}
-.bx31 {			background:url(images-2/separator.png) no-repeat right center;
-			height:222px;
-			width:180px !important;
-}
-.bx41 {			width:200px !important;
-}
+  #content #index-banner .banner-content .right-banner {
+    min-height: 518px;
+  }
+
 .loadButton {margin:auto;text-align:center;position:absolute;top:50%;margin-left:20%;width:980px;}
 h1.antivirus-head {font-family:Arial, Helvetica, sans-serif; font-size:23px; color:#666666; font-weight:bold; float:left; text-align:left; width:360px;  height:25px; padding-top:28px;}
 #header .top-support .phone {width:90px;background: url(images-2/phone-icon1.png) no-repeat scroll 0 0 transparent;color: #69696A;text-indent:-999999px;float: left;font-size: 15px;height: 17px;margin-top: 3px;padding-left: 35px;padding-right: 22px;padding-top: 7px;}
@@ -126,17 +77,7 @@ h1.antivirus-head {font-family:Arial, Helvetica, sans-serif; font-size:23px; col
 h2.cis-head {font-family:Arial, Helvetica, sans-serif; font-size:23px; color:#666666; font-weight:bold; float:left; text-align:left; line-height:25px; width:380px; padding-bottom:16px; height:50px; padding-left:35px;}
 h2.cis-head span {font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#666666; font-weight:bold;}
 </style>
-	
-	<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1069383447;
-var google_conversion_label = "CtLVCJWCvAMQl_71_QM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
- 
+	 
 	
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript">
@@ -146,89 +87,133 @@ var google_remarketing_only = true;
 			setTimeout(function(){ jQuery(".loadButton").hide(); jQuery("#inner-wrapper").show(); }, 70);
 		});
 	</script>
-        
-        <!--Start Google Analytics Tracking-->
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(
-['_setAccount', 'UA-1245640-2'],
-['_setDomainName','comodo.com'],
-['_trackPageview', document.URL.replace(new RegExp('^' + document.location.protocol + '\/\/'), '').replace(new RegExp('^' + document.location.host), '').replace(new RegExp(/key[0-9]{1,3}sk[0-9]{1,3}=[^&]*|/g), '').replace(new RegExp(/&{2,999}/g), '&').replace(new RegExp(/\?&/g), '?').replace(new RegExp(/&$/), '').replace(new RegExp(/\?$/), '')]
-);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript';
-ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(ga, s);
-</script>
-<!--End Google Analytics Tracking-->        <!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
     </head>
+
+
+
     <body>
         <div id="wrapper">
-			<div class="head-sec">
-		  <!-- <h1 class="antivirus-head" style="position:absolute;right:0px;top:514px;">Free Antivirus from  Comodo</h1> -->
+           <div class="head-sec">	</div>
+	<div class="loadButton" style="display:none;"> 
+           <a href="https://secure.comodo.com/home/purchase.php?pid=9&amp;track=3263&amp;promocode=8tr5DIqlCsIW6KuiAMPZv8SX&amp;promocode2=3kPaJVrYDCwd0LA0kInnKOTD&amp;upgrade=0" onclick="_gaq.push(['_trackEvent', 'Button Click', 'Buy now', 'CIS']);" class="buy-now-btn">
+          <img src="images-2/buttons/keep-pc-clean-button.png" width="211" height="70" border="0" style="position:relative;top:-13px;left:-12px;opacity: 1;" onmouseout="this.style.opacity=1" onmouseover="this.style.opacity=0.8" alt="Buy Internet Security" />
+          </a>
+      </div>
+	
+
+	
+      <div id="inner-wrapper" style="display:none;">
+         <div id="header">
+           <a href="http://antivirus.comodo.com">
+           <img src="images-2/comodo-logo.png" class="logo" alt="Antivirus" height="38" width="139" />
+          </a>
+        <div class="top-support">
+          <div class="phone"></div>
+       </div>
+     </div>
+
+
+	              
+
+                       <ul id="sdt_menu" class="sdt_menu">
+				<li>
+					<a href="#">
+						<img src="images/2.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Products</span>
+							<span class="sdt_descr">Get to know it</span>
+						</span>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="images/1.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Portfolio</span>
+							<span class="sdt_descr">My work</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							<a href="#">Websites</a>
+							<a href="#">Illustrations</a>
+							<a href="#">Photography</a>
+					</div>
+				</li>
+				<li>
+					<a href="#">
+						<img src="images/3.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">About us</span>
+							<span class="sdt_descr">Get to know about us</span>
+						</span>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="images/4.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Contact</span>
+							<span class="sdt_descr">Email at example.com</span>
+						</span>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="images/5.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Blog</span>
+							<span class="sdt_descr">I write about design</span>
+						</span>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="images/6.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Projects</span>
+							<span class="sdt_descr">I like to code</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+						<a href="#">Job Board Website</a>
+						<a href="#">Shopping Cart</a>
+						<a href="#">Interactive Maps</a>
+					</div>
+				</li>
+			</ul>
 		</div>
-					<div class="loadButton" style="display:none;"> <a href="https://secure.comodo.com/home/purchase.php?pid=9&amp;track=3263&amp;promocode=8tr5DIqlCsIW6KuiAMPZv8SX&amp;promocode2=3kPaJVrYDCwd0LA0kInnKOTD&amp;upgrade=0" onclick="_gaq.push(['_trackEvent', 'Button Click', 'Buy now', 'CIS']);" class="buy-now-btn"><img src="images-2/buttons/keep-pc-clean-button.png" width="211" height="70" border="0" style="position:relative;top:-13px;left:-12px;opacity: 1;" onmouseout="this.style.opacity=1" onmouseover="this.style.opacity=0.8" alt="Buy Internet Security" /></a></div>
-		
-            <div id="inner-wrapper" style="display:none;">
-                <div id="header">
-    <a href="http://antivirus.comodo.com"><img src="images-2/comodo-logo.png" class="logo" alt="Antivirus" height="38" width="139" /></a>
-    <div class="top-support">
-        <div class="phone"></div>
-	<!-- <div class="chat_container"><a href="http://ws.livepcsupport.com/lps-wca/geekbuddy.html" id="lp-chat" title="Live Support"><span>Chat Now</span></a></div> -->
-    </div>
 
-</div>	              
+         <div id="content"  style="width:890px; margin:auto;">
+            <div id="index-banner">			
+                <div class="banner-content">
+                    <div class="left-banner" style="position:relative">
+                        <div class="image-box" style=" height:319px; margin-top:10px;padding-left: 20px; ">
+                           <a href="https://secure.comodo.com/home/purchase.php?pid=9&amp;track=3263&amp;promocode=8tr5DIqlCsIW6KuiAMPZv8SX&amp;promocode2=3kPaJVrYDCwd0LA0kInnKOTD&amp;upgrade=0">
 
-
+                           <img src="images-2/op-oct22_internet-security.png" style="position: relative; left:-46px; top: 18px; " border="0" alt="Internet Security 2014" />
+                           </a>
+		       </div>
 
 
 
 
-<!--
-  <div id="main-menu">
-    <ul>
-		<li class="nav_first active"><a href="http://antivirus.comodo.com/" title="PC Security Products">Products</a></li>
-		<li class=""><a href="internet-security-for-home.php" title="Comodo Internet Security">For Home</a></li>
-		<li class=""><a href="internet-security-for-business.php" title="Internet Security for Business">For Business</a></li>
-		<li class=""><a href="free-mobile-antivirus.php" title="Free Mobile Antivirus">For Mobile</a></li>
-		<li><a href="//www.comodo.com/about/comodo-company-profile.php" target="_blank" title="About Comodo">About us</a></li>
-		<li><a href="//forums.comodo.com/" class="mobile" target="_blank" title="Comodo Network Community">Community</a></li>
-		<li class="nav_last"><a href="//www.comodo.com/support/comodo-support.php" title="Comodo Support" target="_blank">Support</a></li>
-    </ul>
-</div>
+               <div class="antrivirus_detail">
+                  <h2 class="cis-head"><span>Comodo</span> <br />Internet Security Pro 6</h2>
+                  <div class="download_antivirus_button">
 
-
-
-
--->
-
-
-                <div id="content"  style="width:890px; margin:auto;">
-                  <div id="index-banner">
-					
-                    <div class="banner-content">
-                      <div class="left-banner" style="position:relative">
-                        <div class="image-box" style=" height:319px; margin-top:10px;padding-left: 20px; "><a href="https://secure.comodo.com/home/purchase.php?pid=9&amp;track=3263&amp;promocode=8tr5DIqlCsIW6KuiAMPZv8SX&amp;promocode2=3kPaJVrYDCwd0LA0kInnKOTD&amp;upgrade=0"><img src="images-2/op-oct22_internet-security.png" style="position: relative; left:-46px; top: 18px; " border="0" alt="Internet Security 2014" /></a>
-						</div>
-
-
-<div class="antrivirus_detail">
-  <h2 class="cis-head"><span>Comodo</span> <br />Internet Security Pro 6</h2>
-  <div class="download_antivirus_button">
-
-  <a href="https://secure.comodo.com/home/purchase.php?pid=9&amp;track=3263&amp;promocode=8tr5DIqlCsIW6KuiAMPZv8SX&amp;promocode2=3kPaJVrYDCwd0LA0kInnKOTD&amp;upgrade=0" onclick="_gaq.push(['_trackEvent', 'Button Click', 'Buy now', 'CIS']);" class="buy-now-btn">
+                   <a href="https://secure.comodo.com/home/purchase.php?pid=9&amp;track=3263&amp;promocode=8tr5DIqlCsIW6KuiAMPZv8SX&amp;promocode2=3kPaJVrYDCwd0LA0kInnKOTD&amp;upgrade=0" onclick="_gaq.push(['_trackEvent', 'Button Click', 'Buy now', 'CIS']);" class="buy-now-btn">
   <img src="images-2/buttons/keep-pc-clean-button.png" width="211" height="70" border="0" style="position:relative;top:-13px;left:-12px;opacity: 1;" onmouseout="this.style.opacity=1" onmouseover="this.style.opacity=0.8"  alt="Buy Internet Security" />
-</a>
-</div>
-  <img src="images-2/win8-labels2.png" alt="Antivirus for windows 8" style="bottom: 92px;right: -172px;position: absolute;">
+                </a>
+              </div>
+             <img src="images-2/win8-labels2.png" alt="Antivirus for windows 8" style="bottom: 92px;right: -172px;position: absolute;">
 
-<div class="antivirus_features">
+                 <div class="antivirus_features">
 
                         <div class="left-cnt1111111111" style="">
                           <ul class="lft">
@@ -237,9 +222,9 @@ var WRInitTime=(new Date()).getTime();
                             <li class="orange"><span class="check-icon"></span>$500 Virus-Free Guarantee*</li>
                             <li><span class="check-icon"></span>NO MORE viruses</li>
                           </ul>
-</div>
+                </div>
 
-<div class="antivirus_more_features">
+                <div class="antivirus_more_features">
 
                           <ul class="rght111" >
                             <li><strong>NO MORE:</strong></li>
@@ -247,112 +232,39 @@ var WRInitTime=(new Date()).getTime();
                             <li><span class="check-icon"></span>malware</li>
                             <li><span class="check-icon"></span>slow scanning</li>
                           </ul>
-</div>
-                        </div>
+                </div>
+         </div>
 
 
-                        <!-- ./left-cnt -->
+                <!-- ./left-cnt -->
                       </div>
                       <!-- ./left-banner -->
 
 </div>
+
+
                       <div class="right-banner" style="position:relative">
                         <div class="image-box" style="margin-top:10px; height:319px;"><a href="/download/thank-you.php?prod=cav-free&amp;afl=3264&amp;crc=29&amp;track=3264">
 
 <img src="images-2/antivirus-box.png" border="0" alt="Free Antivirus 2014" width="304" height="319" /></a></div>
 
-<!--
-                         <a href="/download/thank-you.php?prod=cav-free&amp;afl=3264&amp;crc=29&amp;track=3264" style="margin-top:55px;" onclick="_gaq.push(['_trackEvent', 'Button Click', 'Free Download', 'CAV']);" class="free-download-btn"><img src="images-12/buttons/op-nov13-green-download-btn-big.png" width="211" height="67" border="0" style="opacity: 1;position:relative;left:-4px;" onmouseout="this.style.opacity=1" onmouseover="this.style.opacity=0.8" alt="Download Antivirus" /></a>
-
--->
-
-<!--
-                          <img src="images-2/win8-labels2.png" alt="Antivirus for windows 8" style="bottom: 73px;right: 44px;position: absolute;">
-                        <div class="right-cnt" style="padding-top:15px; ">
-                          <ul>
-                            <li><span class="check-icon"></span>Comodo Antivirus Cleans Malware</li>
-                            <li><span class="check-icon"></span>Defense+ Host Intrusion Protection</li>
-                            <li class="orange"><span class="check-icon"></span>Auto Sandbox Technology™</li>
-                          </ul>
-                        </div>
-
--->
                         <!-- ./right-cnt -->
                       </div>
                       <!-- ./right-banner  -->
                       <div class="clear"></div>
                     </div>
-                    <!-- ./banner-content  -->
-                    <div style="padding-left:38px; padding-bottom:20px; padding-top:30px;"><img src="images/other-prdct.png" width="840" height="20" alt="" /></div>
 
-
-<!--
-                    <div class="learn-more-area" style="padding-top:0; margin:0 0 35px 38px; width:840px; ">
-                      <div style="position:absolute; margin:0px; *margin-left:-20px;  "><img src="images/free-version-vertical.jpg" width="25" height="223" alt="" />
-</div>
-
--->
 
                       <div style="width:795px; margin:auto;">
 
 
-<!--								<div class="bx1">
-                                <img src="images-2/powerful-virus-clearing-tool-img.png" width="106" height="98" border="0" alt="Virus Removal" />
-                                <p style="padding-left:20px;">Powerful Virus Cleaning Tools</p>
-                                <a href="//www.comodo.com/business-security/network-protection/cleaning_essentials.php?track=3265" onclick="_gaq.push(['_trackEvent', 'TXT', 'Learn More', 'Cleaning Tools']);" class="btn" target="_blank"></a>                            </div>
-
--->
    
-<!--                         <div class="bx2">
-                               <img src="images-2/antivirus-for-mac-img.png" width="120" height="90" border="0" alt="iAntivirus" />
-                                <p>Antivirus for MAC</p>
-                                <a href="//www.comodo.com/home/internet-security/antivirus-for-mac.php?track=3266" target="_blank" onclick="_gaq.push(['_trackEvent', 'TXT', 'Learn More', 'CAV for MAC']);" class="btn"></a>                            </div>
-
--->
-<!--
-                            <div class="bx3">
-                                <img src="images-2/antivirus-for-linux-img.png" width="100" height="95" border="0" alt="Antivirus For Linux" />
-                                <p>Antivirus for Linux</p>
-                                <a href="//www.comodo.com/home/internet-security/antivirus-for-linux.php?track=3715" target="_blank" onclick="_gaq.push(['_trackEvent', 'Button Click', 'Learn More', 'CAV for LINUX']);" class="btn"></a>                            </div>
-
--->
-<!--
-                            <div class="bx4">
-                                <img src="images-2/antivirus-for-android-img.png" width="100" height="98" border="0" alt="Antivirus For Android" />
-                                <p>Antivirus for Android</p>
-                                <a href="/free-mobile-antivirus.php?track=3267" onclick="_gaq.push(['_trackEvent', 'Button Click', 'Learn More', 'CAV for Android']);" class="btn"></a>                            </div>
-
--->
 							</div>
                     </div>
                     <!-- ./learn-more-area  -->
                   </div>
 
 
-                  <!-- ./index-banner -->
-
-<!--
-                  <div id="comodotv">
-                    <h3>Comodo TV</h3>
-                    <div class="video">
-                      <div class="box"> <a href="#" class="video1 video-icon"><img src="images-2/video-icon.png" alt="Antivirus" title="Comodo antivirus and how it works video" /></a>
-                          <div class="video-cnt"> <a class="video1 topic" href="#">See How We Work for You</a>
-                              <p> Virus Protection vs <br />
-                                Virus Cleaning </p>
-                          </div>
-                      </div>
-                      <div class="box"> <a href="#" class="video-icon video2"><img src="images-2/video-icon.png" alt="Antivirus" title="Comodo antivirus and how it works video" /></a>
-                          <div class="video-cnt"> <a class="topic video2" href="#">The Good, Bad, &amp; The Ugly<br />
-                            (aka Unknown)</a>
-                              <p> Legacy AntiVirus products allow Unknown<br />
-                                applications to execute on your computer! </p>
-                          </div>
-                      </div>
-                    </div>
-   
-
-                  </div>
-                  <!-- #comodotv -->
 
 
 
@@ -362,46 +274,7 @@ var WRInitTime=(new Date()).getTime();
     <div id="footer">
         <div id="footer-top-shadow">&nbsp;</div>
 
-<!--
 
-        <div class="top-footer">
-            <div class="footer-left">
-                <div class="footer-box three">
-                    <h4>About Comodo</h4>
-                    <ul>
-                        <li><a href="//blogs.comodo.com/" onClick="_gaq.push(['_trackEvent', 'Text Link Click', 'Comodo Text', 'Comodo Blog']);" target="_blank" title="Comodo Blog">Comodo Blog</a></li>
-
-                        <li><a href="//www.comodo.com/news/in-the-news.php" onClick="_gaq.push(['_trackEvent', 'Text Link Click', 'Comodo Text', 'News']);" target="_blank" title="Comodo News">News</a></li>
-                        <li><a href="//www.comodo.com/careers/comodo-employment.php" onClick="_gaq.push(['_trackEvent', 'Text Link Click', 'Comodo Text', 'Jobs']);" target="_blank" title="Careers at Comodo">Jobs</a></li>
-                    </ul>
-                </div>
-
-                <div class="footer-box four" style="width:115px;">
-                    <h4>Support</h4>
-                    <ul>
-                        <li><a href="//www.comodo.com/support/comodo-support.php" onClick="_gaq.push(['_trackEvent', 'Text Link Click', 'Comodo Text', 'Help Center']);" target="_blank" title="Comodo Help Center">Help Center</a></li>
-                        <li><a href="//www.comodo.com/repository/privacy-policy.php" onClick="_gaq.push(['_trackEvent', 'Text Link Click', 'Comodo Text', 'Privacy Policy']);" target="_blank" title="Privacy Policy">Privacy</a></li>
-						<li><a href="//www.comodo.com/repository/terms.php" onClick="_gaq.push(['_trackEvent', 'Text Link Click', 'Comodo Text', 'Terms and Conditions']);" target="_blank" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-                        <li><a href="//www.comodo.com/contact-comodo/contact-us.php" onclick="_gaq.push(['_trackEvent', 'Text Link Click', 'Comodo Text', 'Contact us']);" target="_blank" title="Contact Us">Contact us</a></li>
-                    </ul>
-                </div>
-
-            </div>
-
-            <div class="footer-right">
-                <div class="stay-connect">Stay connected</div>
-                <div class="clear"></div>
-               <a href="#" class="digg addthis_button_digg"><span>Share on digg</span></a>
-                <a href="https://plusone.google.com/_/+1/confirm?hl=en-US&amp;url=antivirus.comodo.com" class="google" target="_blank"><span>Share on google_plusone</span></a>
-                <a href="https://twitter.com/comododesktop" target="_blank" class="twitter addthis_button_twitter"><span>Share on twitter</span></a>
-                <a href="https://www.facebook.com/ComodoHome" target="_blank" class="facebook addthis_button_facebook"><span>Share on facebook</span></a>
-                <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#username=xa-4ca0241930358767"></script>
--->
-
-
-<!--            </div><!-- ./footer-right -->
-
- <!--       </div><!-- ./top-footer -->
 
 
         <div class="bottom-footer">
@@ -425,13 +298,63 @@ var WRInitTime=(new Date()).getTime();
 </div>
 
     <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/globalnav.js"></script>
-
-    <script type="text/javascript" src="js/lib/fancybox/jquery.fancybox.pack.js"></script>
-    <script type="text/javascript" src="/js/flashdetect.js"></script>
-    <script type="text/javascript" src="//www.google.com/jsapi/"></script>
-    <script type="text/javascript" src="/js/utm.js"></script>
-<script type="text/javascript" src="/js/utm3.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript">
+            $(function() {
+				/**
+				* for each menu element, on mouseenter, 
+				* we enlarge the image, and show both sdt_active span and 
+				* sdt_wrap span. If the element has a sub menu (sdt_box),
+				* then we slide it - if the element is the last one in the menu
+				* we slide it to the left, otherwise to the right
+				*/
+                $('#sdt_menu > li').bind('mouseenter',function(){
+					var $elem = $(this);
+					$elem.find('img')
+						 .stop(true)
+						 .animate({
+							'width':'170px',
+							'height':'170px',
+							'left':'0px'
+						 },400,'easeOutBack')
+						 .andSelf()
+						 .find('.sdt_wrap')
+					     .stop(true)
+						 .animate({'top':'140px'},500,'easeOutBack')
+						 .andSelf()
+						 .find('.sdt_active')
+					     .stop(true)
+						 .animate({'height':'170px'},300,function(){
+						var $sub_menu = $elem.find('.sdt_box');
+						if($sub_menu.length){
+							var left = '170px';
+							if($elem.parent().children().length == $elem.index()+1)
+								left = '-170px';
+							$sub_menu.show().animate({'left':left},200);
+						}	
+					});
+				}).bind('mouseleave',function(){
+					var $elem = $(this);
+					var $sub_menu = $elem.find('.sdt_box');
+					if($sub_menu.length)
+						$sub_menu.hide().css('left','0px');
+					
+					$elem.find('.sdt_active')
+						 .stop(true)
+						 .animate({'height':'0px'},300)
+						 .andSelf().find('img')
+						 .stop(true)
+						 .animate({
+							'width':'0px',
+							'height':'0px',
+							'left':'85px'},400)
+						 .andSelf()
+						 .find('.sdt_wrap')
+						 .stop(true)
+						 .animate({'top':'25px'},500);
+				});
+            });
+        </script>
 	<script type="text/javascript">
 		$(document).ready(function(){
 
@@ -444,54 +367,7 @@ var WRInitTime=(new Date()).getTime();
 		});
 	</script>
         </div>
-		</div>
-            <script type="text/javascript">
-	$(document).ready(function() {
-		$(".video1").fancybox({
-			maxWidth	: 670,
-			maxHeight	: 330,
-			fitToView	: false,
-			width		: '70%',
-			height		: '70%',
-			type        : 'iframe',
-			href        : 'includes/video.php?f=http://download.comodo.com/comodovision/CA1/comodo_antivirus_and_essentials.flv',
-			autoSize	: false,
-			closeClick	: false,
-			openEffect	: 'fade',
-			closeEffect	: 'fade'
-		});
-		
-		$(".video2").fancybox({
-			maxWidth	: 670,
-			maxHeight	: 330,
-			fitToView	: false,
-			width		: '70%',
-			height		: '70%',
-			type        : 'iframe',
-			href        : 'includes/video.php?f=http://download.comodo.com/comodovision/CA3/TheGood_Bad_The_Unknown.flv',
-			autoSize	: false,
-			closeClick	: false,
-			openEffect	: 'fade',
-			closeEffect	: 'fade'
-		});	
-	
-	});
-	</script>
-        <!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script type='text/javascript'>
-document.write(unescape("%3Cscript%20src='"+
- (document.location.protocol=='https:'?
-  'https://clicktale.pantherssl.com/':
-  'http://s.clicktale.net/')+
- "WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var ClickTaleSSL=1;
-if(typeof ClickTale=='function') ClickTale(370,0.05,"www08");
-</script>
-<!-- ClickTale end of Bottom part -->
-		
+      </div>		
     </body>
 </html>
 

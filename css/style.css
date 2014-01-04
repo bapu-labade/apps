@@ -10,7 +10,9 @@ h4 {font: bold 20px Arial, Helvetica, sans-serif;}
 h5 {font: bold 18px Arial, Helvetica, sans-serif;}
 h6 {font: bold 14px Arial, Helvetica, sans-serif;}
 #wrapper {position:relative;min-height:100%;}
-#inner-wrapper {background:url(../images-2/inner-banner-bg.jpg) no-repeat scroll center top transparent;}
+
+#inner-wrapper {background:url(../images-2/inner-banner-bg.jpg) no-repeat scroll center top transparent; margin-top: 20px;}
+
 #home #inner-wrapper {background: url(../images-2/business-banner-bg.jpg) no-repeat scroll 0px 25px transparent;margin: 0 auto;width: 924px;}
 #business #inner-wrapper {background: url(../images-2/business-banner-bg.jpg) no-repeat scroll 0px 25px transparent;margin: 0 auto;width: 924px;}
 #mobile #inner-wrapper {background: url(../images-2/business-banner-bg.jpg) no-repeat scroll 0px 25px transparent;margin: 0 auto;width: 924px;}
@@ -42,15 +44,6 @@ h6 {font: bold 14px Arial, Helvetica, sans-serif;}
 #main-menu li.nav_first:hover, #main-menu li.nav_first.active{background-position: left -50px;}
 #main-menu li.nav_last:hover, #main-menu li.nav_last.active{background-position: right -50px;}
 #main-menu li:hover a, #main-menu li.active a{background-position: left -50px;color:#fff;text-shadow:none;}
-
-/*#main-menu a.products {background: url(../images-2/main-menu.png) no-repeat;width:220px;height: 50px;display: block;}
-#main-menu .home {background: url(../images-2/main-menu.png) no-repeat -220px 0;width:224px;height: 50px;display: block;}
-#main-menu .business {background: url(../images-2/main-menu.png) no-repeat -444px 0;width:234px;height: 50px;display: block;}
-#main-menu .mobile {background: url(../images-2/main-menu.png) no-repeat -690px 0;width:223px;height: 50px;display: block;}
-#main-menu a.products:hover, #main-menu a.products.active {background-position: 0 -50px;}
-#main-menu a.home:hover, #main-menu a.home.active {background-position: -220px -50px;}
-#main-menu a.business:hover, #main-menu a.business.active {background-position: -444px -50px;}
-#main-menu a.mobile:hover, #main-menu a.mobile.active {background-position: -690px -50px;}*/
 
 #content {width:920px;margin:0 auto;padding-bottom:30px;height:auto;overflow:hidden;min-height:350px;}
 #content #index-banner {width:920px;height:auto;padding-top:35px;}
@@ -101,11 +94,9 @@ h6 {font: bold 14px Arial, Helvetica, sans-serif;}
 #content #comodotv .video .video-cnt {float: left;}
 #content #comodotv .video a.topic {text-decoration: none;font-size: 16px;color: #2d4857;display: block; padding: 5px 0 15px 0;font-weight: normal;}
 #content #comodotv .video p {color: #545555; font-size: 13px;}
-    
-/*#___plusone_0 {position:relative !important;top:-20px;left:2px;-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);filter:alpha(opacity=0) !important;-moz-opacity:0 !important;-khtml-opacity:0 !important;opacity:0 !important;}*/
+
 #footer-wrap {width:100%;background: url(../images-2/footer-bg.jpg) repeat-x 0 0;height:120px;}
 #footer {width:1015px;margin:0 auto;height:auto;overflow:hidden;}
-#footer-top-shadow {background: url(../images-2/footer-shadow.png) no-repeat center top;width:898px;height:13px;}
 #footer .top-footer {width:920px;margin-top:20px;height:auto;overflow:hidden;}
 #footer .top-footer .footer-left {width:515px;padding-left:75px;height:auto;overflow:hidden;float:left;}
 #footer .top-footer .footer-left .footer-box {}
@@ -122,11 +113,7 @@ h6 {font: bold 14px Arial, Helvetica, sans-serif;}
 #footer .top-footer .footer-right a {float:right;display:block;margin:0 3px;text-decoration:none;}
 #footer .top-footer .footer-right a span {display:block;cursor:pointer;text-indent:-222222px;width:36px;height:35px;}
 #footer .top-footer .footer-right a.digg {margin:0 0 0 3px;}
-#footer .top-footer .footer-right a.facebook span {background: url(../images-2/social-icons.png) no-repeat left 0px;}
-#footer .top-footer .footer-right a.twitter span {background: url(../images-2/social-icons.png) no-repeat left -35px;}
-#footer .top-footer .footer-right a.google span {background: url(../images-2/social-icons.png) no-repeat left -70px;}
-#footer .top-footer .footer-right a.digg span {background: url(../images-2/social-icons.png) no-repeat left -105px;}
-#footer .bottom-footer {width:920px;background: url(../images-2/inner-footer-shadow.png) no-repeat center top;height:55px;padding-top:45px;}
+
 #footer .bottom-footer .bottom-footer-left {float: left;padding-left: 75px;width: 290px;margin-top: 5px;}
 #footer .bottom-footer .bottom-footer-left li {color:#FFFFFF;font-size:13px;float:left;}
 #footer .bottom-footer .bottom-footer-left li span {display:inline-block;margin:0 4px 0 4px;}
@@ -166,3 +153,4 @@ h2.cis-head {
     padding-left: 336px;
     width: 189px;
 }
+
