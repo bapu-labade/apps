@@ -1,145 +1,166 @@
-ul.sdt_menu{
-	margin:0;
-	padding:0;
-	list-style: none;
-	font-family:"Myriad Pro", "Trebuchet MS", sans-serif;
-	font-size:14px;
-	width:1020px;
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+/*
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 }
-ul.sdt_menu a{
-	text-decoration:none;
-	outline:none;
-}
-ul.sdt_menu li{
-	float:left;
-	width:170px;
-	height:85px;
-	position:relative;
-	cursor:pointer;
- background: url(../images-2/footer-bg.jpg) repeat-x 0 0 !important;
-}
-ul.sdt_menu li > a{
-	position:absolute;
-	top:0px;
-	left:0px;
-	width:170px;
-	height:85px;
-	z-index:12;
-	background:transparent url(../images/overlay.png) no-repeat bottom right;
-	-moz-box-shadow:0px 0px 2px #000 inset;
-	-webkit-box-shadow:0px 0px 2px #000 inset;
-	box-shadow:0px 0px 2px #000 inset;
-}
-ul.sdt_menu li a img{
-	border:none;
-	position:absolute;
-	width:0px;
-	height:0px;
-	bottom:0px;
-	left:85px;
-	z-index:100;
-	-moz-box-shadow:0px 0px 4px #000;
-	-webkit-box-shadow:0px 0px 4px #000;
-	box-shadow:0px 0px 4px #000;
-}
-ul.sdt_menu li span.sdt_wrap{
-	position:absolute;
-	top:25px;
-	left:0px;
-	width:170px;
-	height:60px;
-	z-index:15;
-}
-ul.sdt_menu li span.sdt_active{
-	position:absolute;
-	background:#111;
-	top:85px;
-	width:170px;
-	height:0px;
-	left:0px;
-	z-index:14;
-	-moz-box-shadow:0px 0px 4px #000 inset;
-	-webkit-box-shadow:0px 0px 4px #000 inset;
-	box-shadow:0px 0px 4px #000 inset;
-}
-ul.sdt_menu li span span.sdt_link,
-ul.sdt_menu li span span.sdt_descr,
-ul.sdt_menu li div.sdt_box a{
-	margin-left:15px;
-	text-transform:uppercase;
-	text-shadow:1px 1px 1px #000;
-}
-ul.sdt_menu li span span.sdt_link{
-	color:#fff;
-	font-size:24px;
-	float:left;
-	clear:both;
-}
-ul.sdt_menu li span span.sdt_descr{
-	color:#0B75AF;
-	float:left;
-	clear:both;
-	width:155px; /*For dumbass IE7*/
-	font-size:10px;
-	letter-spacing:1px;
-}
-ul.sdt_menu li div.sdt_box{
-	display:block;
-	position:absolute;
-	width:170px;
-	overflow:hidden;
-	height:170px;
-	top:85px;
-	left:0px;
-	display:none;
-	background:#000;
-}
-ul.sdt_menu li div.sdt_box a{
-	float:left;
-	clear:both;
-	line-height:30px;
-	color:#0B75AF;
-}
-ul.sdt_menu li div.sdt_box a:first-child{
-	margin-top:15px;
-}
-ul.sdt_menu li div.sdt_box a:hover{
-	color:#fff;
-}
-
-
-.fancyNav li a {
-    color: #5D5D5D;
-    display: inline-block;
-    font: 20px/1 Lobster,Arial,sans-serif;
-    padding: 12px 35px 14px;
-    position: relative;
-    text-decoration: none !important;
-    text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.6);
-    white-space: nowrap;
-    z-index: 2;
-}
-a, a:visited {
-    color: #54A6DE;
-    outline: medium none;
-    text-decoration: none;
-}
-* {
-    margin: 0;
-    padding: 0;
-}
-.fancyNav li {
-    list-style: none outside none;
-}
-nav {
-    text-align: center;
+*/
+/* HTML5 display-role reset for older browsers */
+/*
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
 }
 body {
-    color: #888888;
-    font: 14px/1.3 'Segoe UI',Arial,sans-serif;
+	line-height: 1;
+}
+*/
+
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
 }
 
-ul.sdt_menu {
-    margin-left: 140px;
-    margin-top: -4px;
+/* Default Styles 
+--------------------------------------------------------------------*/
+/*
+body {
+	background: url('img/denim.png');
+	font-family: 'Droid Sans', sans-serif;;
 }
+*/
+
+.clearfix {
+	clear: both;
+}
+
+.wrap {
+	width: 940px;
+	margin: 4em auto;
+}
+
+nav {
+	background: -webkit-gradient(linear, center top, center bottom, from(#fff), to(#ccc));
+	background-image: linear-gradient(#fff, #ccc);
+	border-radius: 21px;
+	box-shadow: 0px 0px 4px 2px rgba(0,0,0,0.4);
+	padding: 0 100px;
+	position: relative;
+        margin-left: 210px;
+        margin-right: 201px;
+        font-family: 'Droid Sans', sans-serif;
+        margin-top: -16px;
+        background:url(../images-2/a_bg.png);
+}
+
+.menu li {
+	float: left;
+	position: relative;
+}
+
+.menu li a {
+	color: #444;
+	display: block;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 6px 12px;
+	margin: 8px 8px;
+	vertical-align: middle;
+	text-decoration: none;
+        background: -webkit-gradient(linear, center top, center bottom, from(#ededed), to(#fff));
+	/* background-image: linear-gradient(#ededed, #fff); */
+	border-radius: 12px;
+	box-shadow: inset 0px 0px 1px 1px rgba(0,0,0,0.1);
+	color: #222;
+}
+
+.menu li a:hover {
+	background: -webkit-gradient(linear, center top, center bottom, from(#ededed), to(#fff));
+	background-image: linear-gradient(#ededed, #fff);
+        background:url(../images-2/a_bg.png);
+	border-radius: 12px;
+	box-shadow: inset 0px 0px 1px 1px rgba(0,0,0,0.1);
+	color: #222;
+}
+
+/* Dropdown styles */
+
+.menu ul {
+	position: absolute;
+	left: -9999px;
+	list-style: none;
+	opacity: 0;
+	transition: opacity 1s ease;
+}
+
+.menu ul li {
+	float: none;
+}
+
+.menu ul a {
+	white-space: nowrap;
+}
+
+/* Displays the dropdown on hover and moves back into position */
+.menu li:hover ul {
+	background: rgba(255,255,255,0.7);
+	border-radius: 0 0 6px 6px;
+	box-shadow: inset 0px 2px 4px rgba(0,0,0,0.4);
+	left: 5px;
+	opacity: 1;
+}
+
+/* Persistant Hover State */
+.menu li:hover a {
+	background: -webkit-gradient(linear, center top, center bottom, from(#ccc), to(#ededed));
+	background-image: linear-gradient(#ccc, #ededed);
+	border-radius: 12px;
+	box-shadow: inset 0px 0px 1px 1px rgba(0,0,0,0.1);
+	color: #222;
+}
+
+.menu li:hover ul a {
+	background: none;
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.menu li:hover ul li a:hover {
+	background: -webkit-gradient(linear, center top, center bottom, from(#eee), to(#fff));
+	background-image: linear-gradient(#ededed, #fff);
+	border-radius: 12px;
+	box-shadow: inset 0px 0px 4px 2px rgba(0,0,0,0.3);
+}
+
+
+

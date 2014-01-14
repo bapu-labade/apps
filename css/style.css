@@ -87,13 +87,6 @@ h6 {font: bold 14px Arial, Helvetica, sans-serif;}
 #content #index-banner .learn-more-area .btn {width: 124px;height: 31px;display: block;background: url(../images-2/learn-more.png) no-repeat;margin: auto;}
 #content #index-banner .learn-more-area .btn:hover {background-position: 0 -31px;}
 
-#content #comodotv {display: block; padding-left: 40px;}
-#content #comodotv .video {}
-#content #comodotv .video .box {display: inline-block;float: left;width: 430px;padding:30px 0;}
-#content #comodotv .video .video-icon {float: left;padding-right: 35px;}
-#content #comodotv .video .video-cnt {float: left;}
-#content #comodotv .video a.topic {text-decoration: none;font-size: 16px;color: #2d4857;display: block; padding: 5px 0 15px 0;font-weight: normal;}
-#content #comodotv .video p {color: #545555; font-size: 13px;}
 
 #footer-wrap {width:100%;background: url(../images-2/footer-bg.jpg) repeat-x 0 0;height:120px;}
 #footer {width:1015px;margin:0 auto;height:auto;overflow:hidden;}
