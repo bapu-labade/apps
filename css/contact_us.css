@@ -1,0 +1,146 @@
+ /*
+ DigitalBase CSS v2.0 Default
+ ----------------------------
+  Revised: 18/07/07
+  All rights reserved. 2007
+  Authored by Digital Base
+  http://www.digitalbase.eu
+ */
+p  {
+color: #C9C9C9;
+}
+div.contact1 {
+    background: url("../images-2/body-background-e.jpg") repeat-x scroll 0 42px #1F282D;
+}
+
+/*** HIMAGE ***/
+.himage                                 { z-index:-1;height:346px;background: #2e3337 url(/images/page/main_banner.png) no-repeat top; }
+body.portfolio .himage                  { background: #2e3337 url(/images/page/header-image-B.jpg) no-repeat top; height:146px; }
+body.about     .himage                  { background: #2e3337 url(/images/page/header-aboutus.png) no-repeat top; height:247px; }
+body.contact   .himage                  { background: #2e3337 url(/images/page/4_banner_B.png) no-repeat top; height:250px; }
+body.subpage   .himage                  { background: #2e3337 url(/images/page/4_banner_services.png) no-repeat top; height:146px; }
+body.services  .himage                  { background: #2e3337 url(/images/page/3_banner_B.png) no-repeat top; height:250px; }
+
+/*** CONTENT ***/
+#content1
+{
+padding:0;
+
+background:#2e3337 url(../images-2/content-background-green.jpg) repeat-x top;
+/*background:#2e3337 url(../images-2/body-bg.jpg) repeat-x top;*/
+ min-height: 473px;
+margin-top: -96px;
+border-top:1px solid #bed5dd;
+border-left:1px solid #2e3338;
+border-right:1px solid #2e3338; 
+    margin-left: 198px;
+    margin-right: 199px;
+   /* padding-left: 151px;*/
+}
+
+#content2
+{
+padding:0;
+
+background:#2e3337 url(../images-2/content-background-green.jpg) repeat-x top;
+/*background:#2e3337 url(../images-2/body-bg.jpg) repeat-x top;*/
+ min-height: 473px;
+margin-top: -41px;
+border-top:1px solid #bed5dd;
+border-left:1px solid #2e3338;
+border-right:1px solid #2e3338; 
+    margin-left: 198px;
+    margin-right: 199px;
+   /* padding-left: 151px;*/
+}
+
+
+
+div#pagecontent                         { padding:35px 35px 0 35px; }
+
+
+.col1, .col2, .col3 {
+    border-left: 1px solid #2E3338;
+    float: left;
+    margin: 0;
+    padding: 35px 35px 0;
+  width: 222px;
+}
+
+h1.green {
+    background: url("../images-2/h1-bullet.png") no-repeat scroll left top transparent;
+    font-family: 'Trebuchet MS',Verdana,Arial,Helvetica,sans-serif;
+    font-size: 2.2em;
+    font-weight: normal;
+    margin: 0 0 20px;
+    padding-left: 30px;
+    text-transform: uppercase;
+   color: #839F37;
+    height: 25px;
+}
+
+
+h1.blue {
+  
+    background: url("../images-2/h1-bullet-blue.png") no-repeat scroll left top transparent;
+    font-family: 'Trebuchet MS',Verdana,Arial,Helvetica,sans-serif;
+    font-size: 2.2em;
+    font-weight: normal;
+    margin: 0 0 20px;
+    padding-left: 30px;
+    text-transform: uppercase;
+   color: #378899;
+    height: 25px;
+}
+
+h1.orange {
+  
+    background: url("../images-2/h1-bullet-orange.png") no-repeat scroll left top transparent;
+    font-family: 'Trebuchet MS',Verdana,Arial,Helvetica,sans-serif;
+    font-size: 2.2em;
+    font-weight: normal;
+    margin: 0 0 20px;
+    padding-left: 30px;
+    text-transform: uppercase;
+   color: #378899;
+    height: 25px;
+}
+
+
+extra-right-padding p {
+    padding-right: 55px;
+    text-align: justify;
+}
+p {
+    font-size: 110%;
+    line-height: 1.5em;
+    margin: 5px 0 10px;
+}
+
+input, textarea {
+    background-color: #2E3337;
+    border: 1px solid #839F37;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+#about_us_image {
+    background: url("../images-2/contactus.jpg") no-repeat scroll center top #2E3337; 
+    height: 250px; 
+}
+
+
+
+
+.col1h, .col2h {
+    float: left;
+    margin: 0 3%;
+    padding: 35px 0 0;
+    width: 40%;
+}
+
+
+#about_us_image1{
+    background: url("../images-2/about-us2.jpg") no-repeat scroll center top #2E3337; 
+    height: 305px; 
+}

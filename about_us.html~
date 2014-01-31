@@ -13,6 +13,8 @@
   <link rel="stylesheet" type="text/css" href="css/reset.css" />
   <link rel="stylesheet" type="text/css" media="all" href="css/style1.css" />
   <link rel="stylesheet" type="text/css" media="all" href="css/menubar_style.css" />
+  <link rel="stylesheet" type="text/css" media="all" href="css/contact_us.css" />
+
   <link rel="stylesheet" type="text/css" media="all" href="css/iconic.css" />
         
   <style type="text/css">
@@ -89,7 +91,7 @@ h2.cis-head span {font-family:Arial, Helvetica, sans-serif; font-size:18px; colo
 	<script type="text/javascript">
 		$(document).ready(function () {
 			//hide a div after 6 seconds
-			setTimeout(function(){ jQuery(".loadButton").show(); }, 10);
+			//setTimeout(function(){ jQuery(".loadButton").show(); }, 10);
 			setTimeout(function(){ jQuery(".loadButton").hide(); jQuery("#inner-wrapper").show(); }, 70);
 		});
 	</script>
@@ -100,18 +102,18 @@ var WRInitTime=(new Date()).getTime();
 </script>
 
     </head>
-    <body>
+    <body class="contact">
         <div id="wrapper">
 			<div class="head-sec">
 		</div>
 					<div class="loadButton" style="display:none;"> <a href="https://secure.comodo.com/home/purchase.php?pid=9&amp;track=3263&amp;promocode=8tr5DIqlCsIW6KuiAMPZv8SX&amp;promocode2=3kPaJVrYDCwd0LA0kInnKOTD&amp;upgrade=0" onclick="_gaq.push(['_trackEvent', 'Button Click', 'Buy now', 'CIS']);" class="buy-now-btn"><img src="images-2/buttons/keep-pc-clean-button.png" width="211" height="70" border="0" style="position:relative;top:-13px;left:-12px;opacity: 1;" onmouseout="this.style.opacity=1" onmouseover="this.style.opacity=0.8" alt="Buy Internet Security" /></a></div>
 		
-            <div id="inner-wrapper" style="display:none;">
-                <div id="header">
-    <a href="http://antivirus.comodo.com"><img src="images-2/comodo-logo.png" class="logo" alt="Antivirus" height="38" width="139" /></a>
+      <div id="inner-wrapper" style="display:none;"> </div>
+
+  <div id="header">
+    <a href="index.html"><img src="images-2/comodo-logo.png" class="logo" alt="Antivirus" height="38" width="139" /></a>
     <div class="top-support">
         <div class="phone"></div>
-	<!-- <div class="chat_container"><a href="http://ws.livepcsupport.com/lps-wca/geekbuddy.html" id="lp-chat" title="Live Support"><span>Chat Now</span></a></div> -->
     </div>
 </div>	                
 
@@ -119,43 +121,17 @@ var WRInitTime=(new Date()).getTime();
 		<ul class="menu">
 
                         <li>
-<a href="#"><span class="iconic map-pin"></span> Products</a>
+                            <a href="index.html"><span class="iconic map-pin"></span> Products</a>
 
 			</li>
 
-<!--
-			<li><a href="#"><span class="iconic home"></span> Home</a></li>
-			<li><a href="#"><span class="iconic plus-alt"></span> About</a>
-			<!--	<ul>
-					<li><a href="#">Company History</a></li>
-					<li><a href="#">Meet the team</a></li>
-				</ul> 
-			</li>
--->
+
 			<li><a href="#"><span class="iconic magnifying-glass"></span> Support</a>
-<!--
-				<ul>
-					<li><a href="#">Web Design</a></li>
-					<li><a href="#">App Development</a></li>
-					<li><a href="#">Email Campaigns</a></li>
-					<li><a href="#">Copyrighting</a></li>
-				</ul>
--->
 			</li>
 
-			<li><a href="#"><span class="iconic mail"></span> Contact</a>
-<!--				<ul>
-					<li><a href="#">Contact Us</a></li>
-					<li><a href="#">Directions</a></li>
-				</ul>
--->
+			<li><a href="contact_us.html"><span class="iconic mail"></span> Contact</a>
 			</li>
-			<li><a href="#"><span class="iconic info"></span> About us</a>
-<!--				<ul>
-					<li><a href="#">Contact Us</a></li>
-					<li><a href="#">Directions</a></li>
-				</ul>
--->
+			<li><a href="about_us.html"><span class="iconic info"></span> About us</a>
 			</li>
 
 
@@ -163,44 +139,119 @@ var WRInitTime=(new Date()).getTime();
 		<div class="clearfix"></div>
 	</nav>
 
-          <div id="content"  style="width:890px; margin:auto;">
-                  <div id="index-banner">
-			
-                  <!-- ./index-banner -->
-                </div>
-                <!-- #content -->
-            <div id="footer-wrap">
-    <div id="footer">
-       
-<!-- <div id="footer-top-shadow">&nbsp;</div> -->
 
-        <div class="bottom-footer">
-            <div class="bottom-footer-left">
-                <ul>
-                    <li><a href="//www.comodo.com/repository/privacy-policy.php" target="_blank" onclick="_gaq.push(['_trackEvent', 'Text Link Click', 'Comodo Text', 'Privacy Policy']);" title="Comodo Privacy Policy">Privacy Policy</a></li>
-                    <li><span>|</span></li>
-                    <li><a href="//www.comodo.com/repository/terms.php" target="_blank" onclick="_gaq.push(['_trackEvent', 'Text Link Click', 'Comodo Text', 'Terms and Conditions']);" title="Comodo Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-                </ul>
+      <div id="content"  style="width:890px; margin:auto;">
+           <div id="index-banner">
+					
+               <div class="banner-content">
+
+                    <div id="about_us_image1"></div>
+               </div>
             </div>
-            <div class="bottom-footer-middle">
-                <ul>
-                    <li><a href="//www.comodo.com/about/comodo-company-profile.php"  target="_blank"onclick="_gaq.push(['_trackEvent', 'Text Link Click', 'Footer Comodo Text', 'About us']);" title="About Comodo"><span>About us</span></a></li>
-                    <li><a href="//forums.comodo.com/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Text Link Click', 'Footer Comodo Text', 'Community']);" title="Comodo Forums"><span>Community</span></a></li>
-                    <li><a href="//www.comodo.com/support/comodo-support.php" target="_blank" onclick="_gaq.push(['_trackEvent', 'Text Link Click', 'Footer Comodo Text', 'Support']);" title="Comodo Support"><span>Support</span></a></li>
-                </ul>
-            </div>
-            <div class="bottom-footer-right"><p>&copy;2014  Comodo Security Solutions, Inc.</p></div>
-        </div>
-    </div>
+         </div>
+
+<div id="content2" class="contact1">
+
+<div id="admincontent">
+
+<!--              
+<div class="col1 extra-right-padding">
+  <h1 class="green">Reach Us</h1>
+  <p>Please use the contact form on the right side if you have any questions or requests, concerning our services.</p>
+  <p>We will respond to your message within 24 hours.</p>
+  <p>Below you can find a quick roadmap to get to our office.</p>
 </div>
+-->
+<!--
+<div class="col2">
+  <h1 class="blue">General</h1>
+  <p><b>Digital Base BVBA</b></p>
+  <p>Broekstraat 36<br />
+  3001 Leuven<br />
+	    <span>Fax</span> +32 (0)16 36 00 39<br />
+  Belgium</p>
+  <p class="contactinfo">
+	    <span>Tel</span> +32 (0)16 36 00 36<br />
+	    <span>Email </span>  <a title="Mail Digital Base for more information" href="mailto:info@digitalbase.eu">info@digitalbase.eu</a>  </p>
+  <p class="contactinfo">
+    <span>TVA</span> BE-0866.257.609 <br />
+    <span>BANK</span> 001-4305561-01 (Fortis)<br />
+	  <span>IBAN</span> BE43 0014 3055 6101<br />
+	  <span>BIC</span> GEBABEBB
+  </p>
+</div>
+-->
+<!--
+<div class="col3">
+  <h1 class="orange">Mail Us</h1>
+
+      <form method="post" action="/contact/send">                <p>
+          <label for="name">Name <strong><div class="error-contactus" style="display:none;" id="error_for_name">&nbsp;&nbsp;</div>
+</strong></label>
+          <input type="text" name="name" id="name" value="" />        </p>
+        <p>
+          <label for="email">Email <strong><div class="error-contactus" style="display:none;" id="error_for_email">&nbsp;&nbsp;</div>
+</strong></label>
+          <input type="text" name="email" id="email" value="" />        </p>
+        <p>
+          <label for="message">Message <strong><div class="error-contactus" style="display:none;" id="error_for_message">&nbsp;&nbsp;</div>
+</strong></label>
+          <textarea name="message" id="message" rows="4" cols="20"></textarea>        </p>
+
+        <p><input type="submit" name="commit" value="Send" /></p>
+    </form>
+  
+</div>
+-->
+<div class="col1h">
+ <div class="spacer">
+  <h1 class="green">Mission Statement</h1>
+  <p>
+    Our mission is to excel in what we do :    to constantly explore the boundaries of technology and apply our expertise to the fullest benefit of the customer  </p>
+  <h5>Long-term commitment</h5>
+  <p>Unlike most companies, our commitment is not limited to the production process. We want to establish a long-term relationship with our clients, allowing our services to support your way of doing business in a rapidly evolving industry.</p>
+ </div>
+</div>
+
+<div class="col2h">
+ <div class="spacer">
+  <h1 class="green">About Us</h1>
+  <p>
+    Digital Base was founded in 2004 and is headquartered in Leuven, Belgium.    We are currently employing a number of highly-trained IT technicians, each with their own set of industry-specific skills  </p>
+  <h5>Young and dynamic</h5>
+  <p>We are a expanding company, growing exponentially day by day. Our expertise has already gained the recognition of multi-national companies such as the pan-European EuPC Group and Schering-Plough.</p>
+ </div>
+</div>
+
+
+            </div>
+        </div>
+      </div>
+    </div>
+
+
+<div id="footer">
+<div id="bottom">
+<span class="right">
+<a href="/sitemap" title="Sitemap">Sitemap</a>
+|
+<a href="/disclaimer" title="Disclaimer">Disclaimer</a>
+|
+<a href="/blog" title="Blog">Blog</a>
+</span>
+Digital Base © 2008. All Rights Reserved.
+</div>
+</div>
+
+
+
 
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/prefix-free.js"></script>
 
         </div>
 		</div>
-<div id="ClickTaleDiv" style="display: none;">
-</div>		
+		
     </body>
 </html>
 

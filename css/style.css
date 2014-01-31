@@ -147,3 +147,8 @@ h2.cis-head {
     width: 189px;
 }
 
+
+.himage {
+    background: url("../images-2/4_banner_B.png") no-repeat scroll center top #2E3337;
+    height: 250px;
+}
